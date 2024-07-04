@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  name: material
+  language: zh
+
+
+copyright: Copyright &copy; 2024 zixuejiaoshi
