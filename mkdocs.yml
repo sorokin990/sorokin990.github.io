@@ -6,7 +6,7 @@ copyright: Copyright &copy; 2024
 
 
 nav:
-  - Welcome: index.md
+  - 首页: index.md
   - User Guide:
     - guide/index.md
     - Installation: guide/installation.md
