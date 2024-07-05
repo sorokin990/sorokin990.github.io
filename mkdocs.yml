@@ -10,13 +10,18 @@ nav:
     
   - 数学: 
     - math/index.md
-    # - "一年级": "math/一年级/index.md"
-    #  - "加法": "math/一年级/add.md"
+    - 一年级: 
+      - math/一年级/index.md
+      - 加法: math/一年级/add.md
     - Basics: guide/basics.md
-      - test: math/add.md
+    - Configuration: guide/config.md
     - Configuration: guide/config.md
   - Changelog: changelog.md
-
+  - Insiders:
+    - insiders/index.md
+    - Why sponsor us: insiders/why-sponsor-us.md
+    - Additional information:
+      - Payment and billing: insiders/payment-and-billing.md
 theme:
   name: material
   language: zh
