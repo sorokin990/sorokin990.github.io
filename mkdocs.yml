@@ -61,3 +61,6 @@ markdown_extensions:
 
 extra_css:
   - static/extra.css
+
+extra_javascript:
+  - js/tongji.js
