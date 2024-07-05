@@ -7,13 +7,6 @@ copyright: Copyright &copy; 2024
 
 nav:
   - 首页: index.md
-  
-  - 数学分析(微积分):
-    - "math/index.md"
-      - "MIT 18.01/18.02: Calculus": "analysis/mit18.01.md"
-  - 高等代数(线性代数):
-    - "MIT 18.06: Linear Algebra": "algebra/mit18.06.md"
-    - "Algebra": "algebra/ladr.md"
     
   - 数学: 
     - math/index.md
