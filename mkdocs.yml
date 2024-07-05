@@ -29,6 +29,18 @@ nav:
       - math/一年级/index.md
       - 加法: math/一年级/add.md
       
+  - 语文: 
+    -  yuwen/index.md
+    - 一年级: 
+      - yuwen/一年级/index.md
+      - 加法: yuwen/一年级/add.md
+      
+  - 英语: 
+    - english/index.md
+    - 一年级: 
+      - english/一年级/index.md
+      - 加法: english/一年级/add.md
+      
       
 theme:
   name: material
