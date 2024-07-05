@@ -7,8 +7,8 @@ copyright: Copyright &copy; 2024
 
 nav:
   - 首页: index.md
-  - User Guide:
-    - guide/index.md
+  - 数学:
+    - math/index.md
     - Installation: guide/installation.md
     - Basics: guide/basics.md
     - Configuration: guide/config.md
