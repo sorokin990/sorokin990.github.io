@@ -13,6 +13,7 @@ nav:
     # - "一年级": "math/一年级/index.md"
     #  - "加法": "math/一年级/add.md"
     - Basics: guide/basics.md
+      - test: math/add.md
     - Configuration: guide/config.md
   - Changelog: changelog.md
 
