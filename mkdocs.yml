@@ -11,6 +11,7 @@ nav:
     
   - 数学: 
     - math/index.md
+    - 可汗学院数学: math/khan_academy.md
     - 名师课堂: math/renjiaoban_1_to_6.md
     - 一年级: 
       - math/一年级/index.md
