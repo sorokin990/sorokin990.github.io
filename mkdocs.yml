@@ -11,13 +11,8 @@ nav:
     
   - 数学: 
     - math/index.md
-    - 可汗学院数学: math/khan_academy.md
-    - 名师课堂: math/renjiaoban_1_to_6.md
-    - 一年级数学: 
-      - math/grade-1.md
-    - 二年级:
-      - math/一年级/index.md
-      - 加法: math/一年级/add.md
+    - 一年级数学: math/grade-1.md
+    - 二年级数学: math/grade-2.md
     - 三年级:
       - math/一年级/index.md
       - 加法: math/一年级/add.md
@@ -30,6 +25,8 @@ nav:
     - 六年级:
       - math/一年级/index.md
       - 加法: math/一年级/add.md
+    - 可汗学院数学: math/khan_academy.md
+    - 名师课堂: math/renjiaoban_1_to_6.md
       
   - 语文: 
     -  yuwen/index.md
