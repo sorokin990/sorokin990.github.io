@@ -49,7 +49,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - content.code.annotate
-    - toc.integrate
+    # - toc.integrate  #启用目录导航集成，它始终呈现为左侧导航侧栏的一部分
     - toc.follow
     - navigation.path
     - navigation.top
