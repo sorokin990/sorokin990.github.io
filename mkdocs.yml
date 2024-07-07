@@ -81,6 +81,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+plugins:
+  - privacy:
+      links_attr_map:
+        target: _blank
+
 markdown_extensions:
   - admonition
   - pymdownx.details
