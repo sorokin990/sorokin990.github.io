@@ -79,6 +79,8 @@ theme:
         name: Switch to light mode
 
 plugins:
+  - search
+  - tags
   - privacy:
       links_attr_map:
         target: _blank
