@@ -40,6 +40,8 @@ nav:
       - english/一年级/index.md
       - 加法: english/一年级/add.md
       
+  - 书籍推荐: 
+    - books.md
       
 theme:
   name: material
